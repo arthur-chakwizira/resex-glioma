@@ -1,6 +1,6 @@
 # Gradient waveforms: ResEx exchange mapping in glioma
 
-These are the two free gradient waveforms used in *Characterising Water Exchange in Gliomas Using Diffusion MRI with Free Gradient Waveforms* (Chakwizira et al., Imaging Neuroscience). They differ in exchange weighting (Γ ≈ 10 ms vs 40 ms) and have near-identical restriction weighting (V_ω ≈ 3.7·10³ vs 3.6·10³ s⁻²).
+These are the two free gradient waveforms used in *Characterising Water Exchange in Gliomas Using Diffusion MRI with Free Gradient Waveforms* (Chakwizira et al., 	arXiv:2605.01918 [physics.med-ph]). They differ in exchange weighting (Γ ≈ 10 ms vs 40 ms) and have near-identical restriction weighting (V_ω ≈ 3.7·10³ vs 3.6·10³ s⁻²).
 
 | Waveform | Γ [ms] | V_ω [s⁻²] | Peak \|g\| at b_max [mT/m] |
 |---|---|---|---|
